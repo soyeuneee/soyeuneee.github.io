@@ -40,8 +40,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+    "//docs/docs/tags",
     "/",
-    "//docs/docs/tags"
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -91,7 +92,7 @@
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
-  "systemName": "Blog",
+  "systemName": "blog",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100

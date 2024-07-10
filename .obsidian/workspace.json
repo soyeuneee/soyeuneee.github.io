@@ -11,11 +11,9 @@
             "id": "4babf3e772df02fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Tags/2024.07.09.md",
-                "mode": "preview",
-                "source": false
+                "path": "Tags"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/2024.07.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/2024.07.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tags/2024.07.07.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,35 +169,36 @@
                 "id": "f135e4ab660a2312",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tags/2024.07.09.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 317,
+        "x": 316,
         "y": 316,
-        "width": 902,
-        "height": 500,
+        "width": 908,
+        "height": 503,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f135e4ab660a2312",
+  "active": "4babf3e772df02fb",
   "lastOpenFiles": [
+    "2024.07.07.md",
+    "2024.07.09.md",
+    "README.md",
+    "Untitled Kanban.md",
+    "Untitled.canvas",
+    "2024-07-10.md",
     "Tags/2024.07.09.md",
     "Tags/2024.07.07.md",
     "Pasted image 20240709221405.jpg",
     "test.md",
     "Pasted image 20240709213647.jpg",
-    "Untitled.canvas",
     "Pasted image 20240709213636.jpg",
     "Untitled 5.md",
     "Pasted image 20240709213659.jpg",
@@ -214,9 +209,7 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "README.md",
     "Vault.md",
-    "Untitled Kanban.md",
     "index.md",
     "이름 없는 보드.md",
     "이름 없는 보드 1.md",
