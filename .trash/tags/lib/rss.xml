@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[soyeuneee.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>soyeuneee.github.io</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 10 Jul 2024 04:44:27 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 10 Jul 2024 04:44:27 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2024.07.07]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[soyeuneee.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>soyeuneee.github.io</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 10 Jul 2024 04:39:04 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 10 Jul 2024 04:39:04 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024.07.07]]></title><description><![CDATA[ 
  <br>-파이토치(PyTorch):<br>
 파이썬 러닝 라이브러리.<br>
 파이토치 특징1. Numpy와 유사하지만 GPU 상에서 실행 가능한 n차원 Tensor.<br>
@@ -10,15 +10,14 @@
 152개의 층을 가지는 구조.<br>
 레이어의 input이 다른 레이어로 곧바로 건너뛰어버리는 것이 특징적.<br>
 입력값들이 중간의 특정 레이어를 모두 거지 않고 한번에 건너뛴다는 의미.<br>
-VggNet을 베이스로 했으며, 지름길(Shortcut)을 연결해 잔차(Residual)를 최소화하도록 학습됨.]]></description><link>2024.07.07.html</link><guid isPermaLink="false">2024.07.07.md</guid><pubDate>Tue, 09 Jul 2024 12:23:29 GMT</pubDate></item><item><title><![CDATA[2024.07.09]]></title><description><![CDATA[ 
+VggNet을 베이스로 했으며, 지름길(Shortcut)을 연결해 잔차(Residual)를 최소화하도록 학습됨.]]></description><link>tags\2024.07.07.html</link><guid isPermaLink="false">Tags/2024.07.07.md</guid><pubDate>Tue, 09 Jul 2024 12:23:29 GMT</pubDate></item><item><title><![CDATA[2024.07.09]]></title><description><![CDATA[ 
  <br>-오늘의 모각코 목표: 파이토치 공부.<br>-참고영상: 이수안컴퓨터연구소-파이토치 한번에 끝내기 PyTorch Full Tutorial Course<br>-파이토치(PyTorch):<br>
 초기 루아(Lua) 언어로 개발된 토치(Torch)를 파이썬 버전으로 개발하여 2017년도에 공개.<br>
 초기의 토치는 넘파이 라이브러리처럼 과학 연산을 위한 라이브러리로 공개됨.<br>
 이후 GPU를 이용한 텐서 조작 및 동적 신경망 구축이 가능하도록 딥러닝 프레임워크로 발전.<br>
 유연하며 가속화된 계산 속도를 제공.<br>
 -파이토치 모듈 구조:<br>
-<img alt="Pasted image 20240709221405.jpg" src="pasted-image-20240709221405.jpg"><br>
--파이토치 구성요소:<br>
+<img alt="Pasted image 20240709221405.jpg" src="lib\media\pasted-image-20240709221405.jpg">  -파이토치 구성요소:<br>
 torch: 메인 네임스페이스, 텐서 등의 다양한 수학 함수 포함.<br>
 torch.autograd: 자동 미분 기능을 제공하는 라이브러리.<br>
 torch.nn: 신경망 구축을 위한 데이터 구조나 레이어 등의 라이러리.<br>
@@ -55,7 +54,7 @@ OD Tensor(Scalar): 하나의 숫자를 담고 있는 텐서.<br>
 텐서에 대한 수학 연산, 삼각함수, 비트 연산, 비교 연산, 집계 등.<br>
 max와 min은 dim 인자를 줄 경우 argmax와 argmin도 함께 return됨.<br>
 argmax: 최대값을 가진 인덱스.<br>
-argmin: 최소값을 가진 인덱스.]]></description><link>2024.07.09.html</link><guid isPermaLink="false">2024.07.09.md</guid><pubDate>Wed, 10 Jul 2024 04:42:26 GMT</pubDate><enclosure url="pasted-image-20240709221405.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;pasted-image-20240709221405.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+argmin: 최소값을 가진 인덱스.]]></description><link>tags\2024.07.09.html</link><guid isPermaLink="false">Tags/2024.07.09.md</guid><pubDate>Tue, 09 Jul 2024 14:13:31 GMT</pubDate><enclosure url="lib\media\pasted-image-20240709221405.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240709221405.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 26 Jun 2024 13:06:54 GMT</pubDate></item><item><title><![CDATA[Obsidian template for using github.io]]></title><description><![CDATA[ 
  <br><br>&lt;1주차(2024.07.07)&gt;<br>
 -파이토치(PyTorch):<br>
@@ -69,5 +68,7 @@ argmin: 최소값을 가진 인덱스.]]></description><link>2024.07.09.html</li
 152개의 층을 가지는 구조.<br>
 레이어의 input이 다른 리이어로 곧바로 건너뛰어버리는 것이 특징.<br>
 입력값들이 중간의 특정 레이어를 모두 거치지 않고 한번에 건너뛴다는 의미.<br>
-VggNet을 베이스로 했으며, 지름길(Shortcut)을 연결해 잔차(Residual)를 최소화하도록 학습됨.]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Sun, 07 Jul 2024 05:30:07 GMT</pubDate></item><item><title><![CDATA[Vault]]></title><description><![CDATA[ 
+VggNet을 베이스로 했으며, 지름길(Shortcut)을 연결해 잔차(Residual)를 최소화하도록 학습됨.]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Sun, 07 Jul 2024 05:30:07 GMT</pubDate></item><item><title><![CDATA[test]]></title><description><![CDATA[ 
+ <br>안녕하세요!<br>
+테스트 페이지입니다.]]></description><link>test.html</link><guid isPermaLink="false">test.md</guid><pubDate>Wed, 26 Jun 2024 14:11:00 GMT</pubDate></item><item><title><![CDATA[Vault]]></title><description><![CDATA[ 
  ]]></description><link>vault.html</link><guid isPermaLink="false">Vault.md</guid><pubDate>Sun, 07 Jul 2024 03:33:29 GMT</pubDate></item></channel></rss>
