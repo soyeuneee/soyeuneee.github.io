@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/Tags.md",
+                "file": "2024.07.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/Tags.md",
+                "file": "2024.07.16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/Tags.md"
+                "file": "2024.07.16.md"
               }
             }
           }
@@ -159,44 +159,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "960e584f89b95691",
-    "type": "floating",
-    "children": [
-      {
-        "id": "65293e78330c57d9",
-        "type": "window",
-        "children": [
-          {
-            "id": "93e2660aeccd4875",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "92653f0508530def",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2024.07.09.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 316,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "92653f0508530def",
+  "active": "4babf3e772df02fb",
   "lastOpenFiles": [
     "2024.07.16.md",
     "2024.07.09.md",
