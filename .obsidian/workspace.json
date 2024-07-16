@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/2024.07.16.md",
-                "mode": "preview",
+                "file": "2024.07.07.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/2024.07.16.md",
+                "file": "2024.07.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/2024.07.16.md",
+                "file": "2024.07.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/2024.07.16.md"
+                "file": "2024.07.07.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "4babf3e772df02fb",
   "lastOpenFiles": [
+    "2024.07.16.md",
     "2024.07.09.md",
-    "Tags/2024.07.16.md",
+    "Pasted image 20240709221405.jpg",
     "2024.07.07.md",
     "README.md",
     "Untitled Kanban.md",
@@ -170,7 +171,6 @@
     "2024-07-10.md",
     "Tags/2024.07.09.md",
     "Tags/2024.07.07.md",
-    "Pasted image 20240709221405.jpg",
     "test.md",
     "Pasted image 20240709213647.jpg",
     "Pasted image 20240709213636.jpg",
