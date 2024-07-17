@@ -1,8 +1,8 @@
 {
   "vaultName": "soyeuneee.github.io",
-  "lastExport": 1721189196650,
+  "lastExport": 1721189280882,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon mk-readable-line mk-folder-lines mk-spaces-enabled mk-inline-context-enabled mk-flow-seamless",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon mk-readable-line mk-folder-lines mk-spaces-enabled mk-inline-context-enabled mk-flow-seamless is-grabbing",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -44,6 +44,21 @@
     "docs/tags/docs/tags/docs/tags/docs/lib/html/file-tree.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/lib/html/file-tree.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/lib/html/file-tree.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/lib/html/file-tree.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/tags/tags.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.07.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.09.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.16.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/index.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/readme.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/vault.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.07.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.09.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/index.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/readme.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/test.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/tags/tags.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.07.html",
@@ -73,6 +88,13 @@
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/test.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg",
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg",
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/scripts/graph-data.js",
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/styles/global-variable-styles.css",
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/metadata.json",
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/rss.xml",
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/search-index.json",
     "docs/tags/docs/tags/docs/tags/docs/tags/tags/tags.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/2024.07.07.html",
     "docs/tags/docs/tags/docs/tags/docs/tags/2024.07.09.html",
@@ -110,8 +132,11 @@
     "docs/tags/docs/tags/lib/html/file-tree.html",
     "docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg",
+    "docs/tags/docs/tags/lib/media/favicon.png",
     "docs/tags/docs/tags/lib/scripts/graph-data.js",
     "docs/tags/docs/tags/lib/styles/global-variable-styles.css",
+    "docs/tags/docs/tags/lib/styles/obsidian.css",
+    "docs/tags/docs/tags/lib/styles/other-plugins.css",
     "docs/tags/docs/tags/lib/metadata.json",
     "docs/tags/docs/tags/lib/rss.xml",
     "docs/tags/docs/tags/lib/search-index.json",
@@ -293,181 +318,181 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 102654,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 119119,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 457,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 165390,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 236,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 23392,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -761,19 +786,19 @@
       "dependencies": []
     },
     "docs/tags/lib/html/file-tree.html": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 92188,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 102656,
       "exportedPath": "docs/tags/lib/html/file-tree.html",
       "dependencies": []
     },
     "docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 279,
       "exportedPath": "docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "docs/tags/lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 317,
       "exportedPath": "docs/tags/lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -785,7 +810,7 @@
       "dependencies": []
     },
     "docs/tags/lib/scripts/graph-data.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 457,
       "exportedPath": "docs/tags/lib/scripts/graph-data.js",
       "dependencies": []
@@ -839,7 +864,7 @@
       "dependencies": []
     },
     "docs/tags/lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 236,
       "exportedPath": "docs/tags/lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -863,19 +888,19 @@
       "dependencies": []
     },
     "docs/tags/lib/metadata.json": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 50381,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 55694,
       "exportedPath": "docs/tags/lib/metadata.json",
       "dependencies": []
     },
     "docs/tags/lib/rss.xml": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 13119,
       "exportedPath": "docs/tags/lib/rss.xml",
       "dependencies": []
     },
     "docs/tags/lib/search-index.json": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 28350,
       "exportedPath": "docs/tags/lib/search-index.json",
       "dependencies": []
@@ -971,8 +996,8 @@
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/html/file-tree.html": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 77230,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 92188,
       "exportedPath": "docs/tags/docs/tags/lib/html/file-tree.html",
       "dependencies": []
     },
@@ -1061,8 +1086,8 @@
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/html/file-tree.html": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 67080,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 77230,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
       "dependencies": []
     },
@@ -1145,43 +1170,43 @@
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 279,
       "exportedPath": "docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 317,
       "exportedPath": "docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/scripts/graph-data.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 457,
       "exportedPath": "docs/tags/docs/tags/lib/scripts/graph-data.js",
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 236,
       "exportedPath": "docs/tags/docs/tags/lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/metadata.json": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 43380,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 50381,
       "exportedPath": "docs/tags/docs/tags/lib/metadata.json",
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/rss.xml": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 13119,
       "exportedPath": "docs/tags/docs/tags/lib/rss.xml",
       "dependencies": []
     },
     "docs/tags/docs/tags/lib/search-index.json": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 28350,
       "exportedPath": "docs/tags/docs/tags/lib/search-index.json",
       "dependencies": []
@@ -1193,8 +1218,8 @@
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 52513,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 67080,
       "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
       "dependencies": []
     },
@@ -1283,8 +1308,8 @@
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 42667,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 52513,
       "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
       "dependencies": []
     },
@@ -1367,43 +1392,43 @@
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 279,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 317,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/scripts/graph-data.js": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 457,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/scripts/graph-data.js",
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 236,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/metadata.json": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 38968,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 43380,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/metadata.json",
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/rss.xml": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 13119,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/rss.xml",
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/lib/search-index.json": {
-      "modifiedTime": 1721189196650,
+      "modifiedTime": 1721189280882,
       "sourceSize": 28350,
       "exportedPath": "docs/tags/docs/tags/docs/tags/lib/search-index.json",
       "dependencies": []
@@ -1415,8 +1440,8 @@
       "dependencies": []
     },
     "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html": {
-      "modifiedTime": 1721189196650,
-      "sourceSize": 3583,
+      "modifiedTime": 1721189280882,
+      "sourceSize": 42667,
       "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
       "dependencies": []
     },
@@ -1496,6 +1521,156 @@
       "modifiedTime": 1721189196650,
       "sourceSize": 13887,
       "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/lib/html/file-tree.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 3314,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 3583,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/tags/tags.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 15274,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/tags/tags.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.07.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 14933,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.07.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.09.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 17311,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.09.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.16.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 19905,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.16.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/index.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 14991,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/index.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/readme.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 15164,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/readme.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/vault.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 13887,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/vault.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.07.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 14945,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.07.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.09.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 17340,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.09.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/index.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 14776,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/index.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/readme.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 15164,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/readme.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/test.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 14080,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/test.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 13887,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 279,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 317,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/scripts/graph-data.js": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 457,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 236,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/metadata.json": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 38968,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/metadata.json",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/rss.xml": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 13119,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/rss.xml",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/docs/tags/docs/tags/lib/search-index.json": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 28350,
+      "exportedPath": "docs/tags/docs/tags/docs/tags/docs/tags/lib/search-index.json",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/lib/media/favicon.png": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 1105,
+      "exportedPath": "docs/tags/docs/tags/lib/media/favicon.png",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/lib/styles/obsidian.css": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 130483,
+      "exportedPath": "docs/tags/docs/tags/lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "docs/tags/docs/tags/lib/styles/other-plugins.css": {
+      "modifiedTime": 1721189280882,
+      "sourceSize": 165390,
+      "exportedPath": "docs/tags/docs/tags/lib/styles/other-plugins.css",
       "dependencies": []
     }
   }

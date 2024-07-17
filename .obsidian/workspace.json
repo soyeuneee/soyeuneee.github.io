@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Tags"
+                "path": "docs/tags/tags"
               }
             }
           }
@@ -155,22 +155,22 @@
   },
   "active": "4babf3e772df02fb",
   "lastOpenFiles": [
-    "docs/tags/docs/tags/lib/styles/other-plugins.css",
-    "docs/tags/docs/tags/lib/styles/obsidian.css",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/test.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/readme.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/index.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.09.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.07.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/vault.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/readme.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/index.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.16.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.09.html",
+    "2024.07.16.md",
     "docs/tags/docs/tags/lib/media/favicon.png",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/search-index.json",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/rss.xml",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/metadata.json",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/styles/global-variable-styles.css",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/styles",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/scripts/graph-data.js",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/scripts",
     "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/874d8b8e340f75575caa.svg",
     "docs/tags/docs/tags/docs/tags/docs/tags/lib/media/3d6c1bdc4d87cde4de67.svg",
-    "docs/tags/docs/tags/docs/tags/docs/tags/lib/media",
-    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html",
     "Pasted image 20240709221405.jpg",
-    "2024.07.16.md",
     "2024.07.09.md",
     "2024.07.07.md",
     "README.md",
