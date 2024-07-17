@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024.07.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024.07.16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024.07.16.md"
+              }
             }
           }
         ],
@@ -155,41 +159,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "960e584f89b95691",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a20335501e177386",
-        "type": "window",
-        "children": [
-          {
-            "id": "aebac7768bf93185",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "04bc1196ea18385d",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 316,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "04bc1196ea18385d",
+  "active": "4babf3e772df02fb",
   "lastOpenFiles": [
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/vault.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/test.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/readme.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/index.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.09.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/2024.07.07.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/vault.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/readme.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/index.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.16.html",
+    "docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/docs/tags/2024.07.09.html",
     "2024.07.16.md",
     "2024.07.09.md",
     "2024.07.07.md",
@@ -208,7 +190,6 @@
     "2024-07-09.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    ".md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -216,15 +197,6 @@
     "index.md",
     "이름 없는 보드.md",
     "이름 없는 보드 1.md",
-    "docs/lib/search-index.json",
-    "docs/lib/metadata.json",
-    "docs/lib/styles/obsidian.css",
-    "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/global-variable-styles.css",
-    "docs/lib/styles",
-    "docs/lib/scripts/graph-data.js",
-    "docs/lib/scripts/minisearch.js",
-    "docs/lib/scripts/pixi.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",
