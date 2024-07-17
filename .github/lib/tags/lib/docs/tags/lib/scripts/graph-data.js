@@ -1,0 +1,1 @@
+let graphData={graphOptions:{attractionForce:1,linkLength:10,repulsionForce:150,centralForce:3,edgePruning:100,minNodeRadius:3,maxNodeRadius:7},isInitialized:!0,paths:["tags/tags.html","2024.07.16.html"],nodeCount:2,linkSources:[],linkTargets:[],labels:["Tags","2024.07.16"],radii:[null,null],linkCount:0}
